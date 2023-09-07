@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I am Chandan👋</h1>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=chandan157">
-  <img src="https://img.shields.io/github/followers/priyanshuhaldar007?label=Follow&style=social)[(https://github.com/chandan157">
-  <img src="https://shields.io/github/stars/priyanshuhaldar007?label=Stars&style=social)[(https://github.com/chandan157">
+  <img src="https://img.shields.io/github/followers/chandan157?label=Follow&style=social)[(https://github.com/chandan157">
+  <img src="https://shields.io/github/stars/chandan157?label=Stars&style=social)[(https://github.com/chandan157">
 </p>
 <h3>I'm a Web Developer and Open Source Developer🚀 from India.</h3>
 <br />
