@@ -15,4 +15,4 @@
 - 📫 How to reach me: Follow me on these platforms! :<br> &nbsp;&nbsp;&nbsp; &#9733; Instagram : <a href="https://instagram.com/ChandanDebsingha">@chandandebsingha</a><br> &nbsp;&nbsp;&nbsp; &#9733; Linkedin : <a href="https://www.linkedin.com/in/chandan9/">@chandan9</a><br> &nbsp;&nbsp;&nbsp; &#9733; Github : <a href="https://github.com/Chandan157/">@Chandan157</a>
 - 😄 Pronouns: he/him
 
-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan157&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan157&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
