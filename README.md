@@ -32,7 +32,6 @@
   <code><img height="30" src="icons/github_icon.svg"></code>
   <code><img height="30" src="icons/java_icon.svg"></code>
   <code><img height="30" src="icons/django.svg"></code>
-  <code><img height="30" src="icons/laravel.svg"></code>
   <code><img height="30" src="icons/mongodb_icon.svg"></code>
   <code><img height="30" src="icons/mysql_icon.svg"></code>
   <code><img height="30" src="icons/nodejs_icon.svg"></code>
