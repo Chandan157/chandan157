@@ -43,4 +43,5 @@
 
 <hr>
 
+![Chandans's github stats](https://github-readme-stats.vercel.app/api?username=Chandan157&show_icons=true&hide_border=true)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan157&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
