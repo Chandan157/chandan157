@@ -11,7 +11,6 @@
 - 🔭 I’m currently working on ... Open Source!
 - 🌱 I’m currently learning ... <strong><tt>JS</tt></strong>!
 - 👯 I’m looking to collaborate on ... Any Open Source Project involving Web Development
-- 🤔 I’m looking for help with ... Competitive Programming concepts
 - 📫 How to reach me: Follow me on these platforms! :<br> &nbsp;&nbsp;&nbsp; &#9733; Instagram : <a href="https://instagram.com/ChandanDebsingha">@chandandebsingha</a><br> &nbsp;&nbsp;&nbsp; &#9733; Linkedin : <a href="https://www.linkedin.com/in/chandan9/">@chandan9</a><br> &nbsp;&nbsp;&nbsp; &#9733; Github : <a href="https://github.com/Chandan157/">@Chandan157</a>
 - 😄 Pronouns: he/him
 
